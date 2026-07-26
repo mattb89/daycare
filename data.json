@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "title": "MCCYN Daycare Ranking - Nopal Valley to Lackland AFB",
+    "lastUpdated": "2026-07-23",
+    "home": "Nopal Valley, San Antonio, TX 78253",
+    "work": "JBSA-Lackland, San Antonio, TX"
+  },
+  "weights": {
+    "commute": 5,
+    "reviews": 5,
+    "inspection": 4,
+    "mccyn": 3,
+    "price": 3,
+    "hours": 2,
+    "avail": 3
+  },
+  "factorLabels": {
+    "commute": "Commute ease (0730)",
+    "reviews": "Parent reviews",
+    "inspection": "Inspection history",
+    "mccyn": "MCCYN / quality tier",
+    "price": "Price fit",
+    "hours": "Hours fit",
+    "avail": "Infant availability"
+  },
+  "daycares": [
+    {
+      "id": "little-dove",
+      "name": "Little Dove Learning Center",
+      "address": "2655 Talley Rd, San Antonio, TX 78253",
+      "phone": "210-679-5100",
+      "tripTime": "~28-32 min",
+      "scores": { "commute": 5, "reviews": 5, "inspection": 3, "mccyn": 4, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Small sample but strongly positive; parents highlight a caring, communicative staff." }
+      ],
+      "inspectionNote": "1 High (2022), 1 Medium High (2024), 1 Medium (Nov 2025), no injuries ever. Most recent full inspection (Sep 2025) was perfect. Pending re-inspection as of July 2026.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "childrens-lighthouse-potranco",
+      "name": "Children's Lighthouse - Potranco",
+      "address": "425 Grosenbacher Rd, San Antonio, TX 78245",
+      "phone": "210-679-5478",
+      "tripTime": "~30-34 min",
+      "scores": { "commute": 4, "reviews": 5, "inspection": null, "mccyn": 5, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Excellent rating with a large review volume; parents specifically praise camera access and communication." }
+      ],
+      "inspectionNote": "Not yet pulled - request the CSV from childcare.hhs.texas.gov and send it over for scoring.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "la-petite-emerald-glade",
+      "name": "La Petite Academy - Emerald Glade",
+      "address": "111 Emerald Glade, San Antonio, TX 78245",
+      "phone": "210-647-1409",
+      "tripTime": "~28-32 min",
+      "scores": { "commute": 4, "reviews": 3, "inspection": null, "mccyn": 5, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Mixed overall, but infant-room reviews specifically are positive, including a named caregiver and an infant starting at 6 weeks old." }
+      ],
+      "inspectionNote": "Not yet pulled.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "pinnacle-kids-iii",
+      "name": "Pinnacle Kids Academy III",
+      "address": "410 Carson Hill Dr, San Antonio, TX 78251",
+      "phone": "210-660-8585",
+      "tripTime": "~28-32 min",
+      "scores": { "commute": 4, "reviews": 2, "inspection": null, "mccyn": 3, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Mixed; some very happy families, but a recent review describes an allegation of rough handling with a stated open investigation. Worth asking about directly." }
+      ],
+      "inspectionNote": "Not yet pulled.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "tiny-treasures",
+      "name": "Tiny Treasures Daycare",
+      "address": "9714 Potranco Rd, San Antonio, TX 78251",
+      "phone": "210-681-2888",
+      "tripTime": "~28-32 min",
+      "scores": { "commute": 4, "reviews": 3, "inspection": null, "mccyn": 3, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Mixed; one review describes a bite mark/bruise not communicated to the parent same-day." }
+      ],
+      "inspectionNote": "Not yet pulled.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "reach-for-the-stars",
+      "name": "Reach for the Stars Daycare",
+      "address": "7604 W Military Dr, San Antonio, TX 78227",
+      "phone": "",
+      "tripTime": "~30-34 min",
+      "scores": { "commute": 4, "reviews": 4, "inspection": null, "mccyn": 3, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Small sample, very positive; mentions infant activities specifically." }
+      ],
+      "inspectionNote": "Not yet pulled.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "ivy-kids-alamo-ranch",
+      "name": "Ivy Kids of Alamo Ranch",
+      "address": "5325 Lone Star Pkwy, San Antonio, TX 78253",
+      "phone": "830-252-7588",
+      "tripTime": "~32-36 min",
+      "scores": { "commute": 3, "reviews": 5, "inspection": 4, "mccyn": 5, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Strong rating with a large review volume." }
+      ],
+      "inspectionNote": "Only 2 High (both 2023, none recent), 8 Medium High spread over 5 years, 0 Medium, no injuries. Most recent visits (June-July 2026) fully compliant. Best inspection record scored so far.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "primrose-alamo-ranch",
+      "name": "Primrose School at Alamo Ranch",
+      "address": "11161 Westwood Loop, San Antonio, TX 78253",
+      "phone": "210-394-6900",
+      "tripTime": "~34-38 min",
+      "scores": { "commute": 2, "reviews": 4, "inspection": null, "mccyn": 5, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Solid rating overall." }
+      ],
+      "inspectionNote": "Not yet pulled.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "pinnacle-montessori-alamo-ranch",
+      "name": "Pinnacle Montessori of Alamo Ranch",
+      "address": "11400 Culebra Rd, San Antonio, TX 78253",
+      "phone": "210-716-1250",
+      "tripTime": "~35-40 min",
+      "scores": { "commute": 2, "reviews": 3, "inspection": 1, "mccyn": 3, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Mostly glowing for PreK, but one detailed recent review describes an infant-room supervision incident (unsupervised infants, an uncaught scratch)." }
+      ],
+      "inspectionNote": "Worst record scored: roughly 30 High, 28 Medium High, 10 Medium across ~85 visits since 2021, unusually frequent inspections suggesting repeated complaints. High-severity findings as recent as May 2026. No injuries recorded despite the volume. Lowest score of the group.",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "id": "the-pillars-reed",
+      "name": "The Pillars Christian Learning Center - Reed",
+      "address": "11040 Reed Rd, San Antonio, TX 78251",
+      "phone": "210-640-9544",
+      "tripTime": "~29-33 min",
+      "scores": { "commute": 4, "reviews": 5, "inspection": 2, "mccyn": 4, "price": null, "hours": 5, "avail": null },
+      "reviews": [
+        { "source": "Google reviews", "note": "Strong rating (4.6, 163 reviews); one review specifically mentions a child starting in the infant room at 7 weeks old." }
+      ],
+      "inspectionNote": "2 High (most recent March 2026), 7 Medium High (most recent April 2026), 3 Medium, across just 22 months of records - no injuries, but no recent clean stretch to point to yet.",
+      "tags": [],
+      "notes": ""
+    }
+  ]
+}
